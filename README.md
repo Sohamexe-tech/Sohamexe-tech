@@ -166,11 +166,33 @@ My goal is to combine these technologies to build **useful, intelligent and prac
 
 ---
 
-# 📈 My GitHub Activity
+# 📊 GitHub Stats
 
-I use GitHub to document my learning journey, experiment with new technologies, and build practical projects.
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sohamexe-tech&theme=tokyonight" width="100%" />
+</p>
 
-### 🔥 Contribution Graph
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sohamexe-tech&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sohamexe-tech&theme=tokyonight&utcOffset=5.5" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sohamexe-tech&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sohamexe-tech&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+# 🔥 GitHub Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sohamexe-tech&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sohamexe-tech/Sohamexe-tech/output/dist/github-contribution-grid-snake.svg" />
@@ -242,8 +264,6 @@ class Soham:
 ---
 
 ### ⭐ Thanks for visiting my profile!
-
-**Feel free to explore my repositories and follow my journey as I learn, build and experiment with technology.**
 
 <p align="center">
   <i>💻 Learn • Build • Experiment • Improve 🚀</i>
