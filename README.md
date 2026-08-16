@@ -12,7 +12,7 @@ I enjoy building practical projects that combine software, AI, and real-world pr
 * 🌐 Full-Stack Development
 * 🔌 IoT & Intelligent Systems
 * 🚀 Building real-world projects
-* 📚 Currently learning and improving my ML & Software Development skills
+* 📚 Continuously learning and experimenting with new technologies
 
 ---
 
@@ -21,7 +21,7 @@ I enjoy building practical projects that combine software, AI, and real-world pr
 ### 👨‍💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
 </p>
 
 ### 🌐 Web Development
@@ -40,7 +40,7 @@ I enjoy building practical projects that combine software, AI, and real-world pr
 
 `NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `Joblib`
 
-**Currently exploring**
+**Currently Exploring**
 
 `Regression` • `Classification` • `Feature Engineering` • `Ensemble Learning` • `XGBoost` • `Generative AI` • `AI Agents`
 
@@ -166,28 +166,33 @@ My goal is to combine these technologies to build **useful, intelligent and prac
 
 ---
 
-# 📊 GitHub Stats
+# 📈 My GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sohamexe-tech&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohamexe-tech&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+I use GitHub to document my learning journey, experiment with new technologies, and build practical projects.
 
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sohamexe-tech&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🐍 Contribution Snake
+### 🔥 Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sohamexe-tech/Sohamexe-tech/output/dist/github-contribution-grid-snake.svg" />
 </p>
+
+---
+
+# 🧩 Projects & Learning
+
+My repositories cover different areas of software development and programming, including:
+
+* 🐍 Python Development
+* 🧠 Machine Learning
+* 🤖 Artificial Intelligence
+* 🌐 Web Development
+* ⚙️ Backend Development
+* 🗄️ Database Management
+* 🔌 IoT
+* 🧩 Data Structures & Algorithms
+* ☕ Java Development
+
+I'm continuously adding new projects as I learn and explore different technologies.
 
 ---
 
@@ -239,3 +244,7 @@ class Soham:
 ### ⭐ Thanks for visiting my profile!
 
 **Feel free to explore my repositories and follow my journey as I learn, build and experiment with technology.**
+
+<p align="center">
+  <i>💻 Learn • Build • Experiment • Improve 🚀</i>
+</p>
