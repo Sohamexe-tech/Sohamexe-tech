@@ -169,8 +169,8 @@ My goal is to combine these technologies to build **useful, intelligent and prac
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sohamexe-tech&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohamexe-tech&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sohamexe-tech&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohamexe-tech&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
