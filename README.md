@@ -21,19 +21,19 @@ I enjoy building practical projects that combine software, AI, and real-world pr
 ### 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql" />
 </p>
 
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,bootstrap" />
 </p>
 
 ### 🤖 Machine Learning & AI
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
 </p>
 
 **Libraries & Tools**
@@ -42,18 +42,18 @@ I enjoy building practical projects that combine software, AI, and real-world pr
 
 **Currently exploring**
 
-`Regression` • `Classification` • `Ensemble Learning` • `XGBoost` • `Generative AI` • `AI Agents`
+`Regression` • `Classification` • `Feature Engineering` • `Ensemble Learning` • `XGBoost` • `Generative AI` • `AI Agents`
 
 ### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase" />
 </p>
 
 ### ⚙️ Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode" />
 </p>
 
 ---
@@ -186,7 +186,7 @@ My goal is to combine these technologies to build **useful, intelligent and prac
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sohamexe-tech/Sohamexe-tech/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Sohamexe-tech/Sohamexe-tech/output/dist/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -196,11 +196,11 @@ My goal is to combine these technologies to build **useful, intelligent and prac
 <p align="center">
 
 <a href="https://github.com/Sohamexe-tech">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
