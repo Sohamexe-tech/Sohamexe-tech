@@ -4,35 +4,36 @@
 
 I'm a Computer Engineering student passionate about **Machine Learning, Artificial Intelligence, Full-Stack Development, Data Science, and IoT**.
 
-I enjoy building practical projects that combine software, AI, and real-world problem solving.
+I enjoy building practical projects that combine **software, AI, and real-world problem solving**.
 
 * 🎓 Bachelor of Engineering in Computer Engineering
 * 🐍 Python Developer
 * 🤖 Machine Learning & AI Enthusiast
 * 🌐 Full-Stack Development
 * 🔌 IoT & Intelligent Systems
-* 🚀 Building real-world projects
+* 🧠 Exploring Generative AI & AI Agents
+* 🚀 Building practical and real-world projects
 * 📚 Continuously learning and experimenting with new technologies
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+### 👨‍💻 Programming Languages
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
 </p>
 
 ### 🌐 Web Development
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,bootstrap" />
 </p>
 
 ### 🤖 Machine Learning & AI
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
 </p>
 
@@ -42,19 +43,23 @@ I enjoy building practical projects that combine software, AI, and real-world pr
 
 **Currently Exploring**
 
-`Regression` • `Classification` • `Feature Engineering` • `Ensemble Learning` • `XGBoost` • `Generative AI` • `AI Agents`
+`Regression` • `Classification` • `Feature Engineering` • `Ensemble Learning` • `XGBoost` • `Generative AI` • `LLM Applications` • `AI Agents`
 
 ### 🗄️ Databases
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase" />
 </p>
 
 ### ⚙️ Tools & Platforms
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode" />
 </p>
+
+### 🔌 IoT & Embedded
+
+`ESP32` • `Sensors` • `MQTT` • `IoT Monitoring` • `Embedded Systems`
 
 ---
 
@@ -67,19 +72,32 @@ An **Agentic AI-powered disaster monitoring and resource identification system**
 ### 🔄 AI Pipeline
 
 ```text
-News & Social Media
-        ↓
-   Ingestion Agent
-        ↓
-   Extraction Agent
-        ↓
-   Verification Agent
-        ↓
-  Prioritization Agent
-        ↓
-    Dispatch Agent
-        ↓
-  Emergency Dashboard
+                 News & Social Media
+                         │
+                         ▼
+                ┌─────────────────┐
+                │ Ingestion Agent │
+                └────────┬────────┘
+                         ▼
+                ┌─────────────────┐
+                │ Extraction Agent│
+                └────────┬────────┘
+                         ▼
+                ┌─────────────────┐
+                │ Verification    │
+                │     Agent       │
+                └────────┬────────┘
+                         ▼
+                ┌─────────────────┐
+                │ Prioritization  │
+                │     Agent       │
+                └────────┬────────┘
+                         ▼
+                ┌─────────────────┐
+                │ Dispatch Agent  │
+                └────────┬────────┘
+                         ▼
+                 Emergency Dashboard
 ```
 
 ### 🧰 Technologies
@@ -93,37 +111,58 @@ https://github.com/Sohamexe-tech/disaster-relief-agent
 
 # 📚 What I'm Currently Learning
 
+### 🤖 Machine Learning
+
 ```text
 Machine Learning
        │
-       ├── Regression
+       ├── Data Preprocessing
+       ├── Exploratory Data Analysis
+       ├── Linear Regression
+       ├── Multiple Regression
+       ├── Polynomial Regression
        ├── Classification
        ├── Feature Engineering
        ├── Ensemble Learning
        ├── XGBoost
        └── Model Evaluation
+```
 
+### 🌐 Software Development
+
+```text
 Software Development
        │
        ├── Python
        ├── FastAPI
-       ├── React
        ├── REST APIs
-       └── MySQL
+       ├── React
+       ├── MySQL
+       └── Application Deployment
+```
 
+### 🧠 Artificial Intelligence
+
+```text
 Artificial Intelligence
        │
        ├── Generative AI
        ├── LLM Applications
        ├── RAG
-       └── AI Agents
+       ├── AI Agents
+       └── AI-powered Applications
+```
 
+### 🔌 IoT
+
+```text
 IoT
        │
        ├── ESP32
        ├── Sensors
        ├── MQTT
-       └── Intelligent Monitoring
+       ├── Data Collection
+       └── Intelligent Monitoring Systems
 ```
 
 ---
@@ -148,7 +187,7 @@ AI Agents
 IoT + AI
 ```
 
-My goal is to combine these technologies to build **useful, intelligent and practical real-world applications.**
+I'm focused on combining these technologies to build **useful, intelligent and practical real-world applications**.
 
 ---
 
@@ -158,36 +197,54 @@ My goal is to combine these technologies to build **useful, intelligent and prac
 * 📊 Data Science
 * 🐍 Python Development
 * 🌐 Full-Stack Development
-* ⚙️ Backend & REST APIs
+* ⚙️ Backend & REST API Development
 * 🧠 Generative AI & AI Agents
-* 🔌 IoT
-* ☁️ Cloud & Deployment
+* 🔌 IoT & Embedded Systems
+* ☁️ Cloud & Application Deployment
 * 🧩 Data Structures & Algorithms
+* 🗄️ Database Development
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sohamexe-tech&theme=tokyonight" width="100%" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sohamexe-tech&theme=tokyonight" 
+    width="100%" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sohamexe-tech&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sohamexe-tech&theme=tokyonight&utcOffset=5.5" width="48%" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sohamexe-tech&theme=tokyonight" 
+    width="48%" 
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sohamexe-tech&theme=tokyonight" 
+    width="48%" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sohamexe-tech&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sohamexe-tech&theme=tokyonight" width="48%" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sohamexe-tech&theme=tokyonight" 
+    width="48%" 
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sohamexe-tech&theme=tokyonight&utcOffset=5.5" 
+    width="48%" 
+  />
 </p>
 
 ---
 
-# 🔥 GitHub Contribution Activity
+# 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sohamexe-tech&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Sohamexe-tech&theme=tokyonight&hide_border=true" 
+  />
 </p>
 
 ---
@@ -195,42 +252,50 @@ My goal is to combine these technologies to build **useful, intelligent and prac
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sohamexe-tech/Sohamexe-tech/output/dist/github-contribution-grid-snake.svg" />
+  <img 
+    src="https://raw.githubusercontent.com/Sohamexe-tech/Sohamexe-tech/output/dist/github-contribution-grid-snake.svg" 
+  />
 </p>
 
 ---
 
-# 🧩 Projects & Learning
+# 🧩 What You'll Find on My GitHub
 
-My repositories cover different areas of software development and programming, including:
+My repositories represent my learning and development journey across different areas of technology.
 
-* 🐍 Python Development
-* 🧠 Machine Learning
-* 🤖 Artificial Intelligence
-* 🌐 Web Development
-* ⚙️ Backend Development
-* 🗄️ Database Management
-* 🔌 IoT
-* 🧩 Data Structures & Algorithms
-* ☕ Java Development
+```text
+🐍 Python
+🤖 Machine Learning
+🧠 Artificial Intelligence
+🌐 Web Development
+⚙️ Backend Development
+🗄️ Databases
+🔌 IoT
+☕ Java
+🧩 Algorithms & Problem Solving
+🚀 Real-World Projects
+```
 
-I'm continuously adding new projects as I learn and explore different technologies.
+I'm continuously building and improving projects as I learn new technologies.
 
 ---
 
-# 🤝 Let's Connect
+# 🧠 Current Focus
 
-<p align="center">
-
-<a href="https://github.com/Sohamexe-tech">
-  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
+```text
+┌──────────────────────────────────────────────┐
+│                CURRENT FOCUS                 │
+├──────────────────────────────────────────────┤
+│                                              │
+│  🤖 Machine Learning                         │
+│  🧠 Generative AI & AI Agents                │
+│  🐍 Python Development                       │
+│  🌐 Full-Stack Development                   │
+│  ⚙️ FastAPI & REST APIs                      │
+│  🔌 IoT + AI                                 │
+│                                              │
+└──────────────────────────────────────────────┘
+```
 
 ---
 
@@ -253,7 +318,8 @@ class Soham:
         "Machine Learning",
         "FastAPI",
         "React",
-        "Generative AI"
+        "Generative AI",
+        "AI Agents"
     ]
 
     goal = "Build useful software that solves real-world problems"
@@ -263,7 +329,21 @@ class Soham:
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/Sohamexe-tech">
+  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <b>⭐ Thanks for visiting my profile!</b>
+</p>
 
 <p align="center">
   <i>💻 Learn • Build • Experiment • Improve 🚀</i>
